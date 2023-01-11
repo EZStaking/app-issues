@@ -1,2 +1,3 @@
-# ezstakingtools-issues
-Github issues repository for EZStaking Tools
+# EZ Staking Tools Issue Repository
+
+Please open an issue if you encounter a bug or want a feature added.
